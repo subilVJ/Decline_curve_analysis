@@ -27,4 +27,5 @@ Lee, J., R. A. Wattenbarger. (1996). Gas Reservoir Engineering: SPE Textbook Ser
 Towler, B. F. (2002). Fundamental Principles of Reservoir Engineering: SPE Textbook Series Vol. 8. Society of Petroleum Engineers
 
 Norwegian Petroleum Directorate website about Norne Field information
+
 https://www.linkedin.com/pulse/decline-curve-analysis-python-yohanes-nuwara/
